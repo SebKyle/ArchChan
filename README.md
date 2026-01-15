@@ -1,3 +1,5 @@
+#Incomplete fork, please go to https://github.com/NyarchLinux/NyarchAssistant for the project this is forked off of, instead of using this. 
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/NyarchLinux/NyarchAssistant/refs/heads/master/data/icons/hicolor/scalable/apps/moe.nyarchlinux.assistant.svg" alt="nyarchassistant" width="192" height="192"/>
   <br>
